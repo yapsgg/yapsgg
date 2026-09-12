@@ -6,18 +6,23 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en)
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://yaps.gg)
 
-### Founder [VENAZ ©](https://venaz.ai) –– Your Creative Space for Generative Workflows
+### Building [Venaz](https://venaz.ai) –– The Leading Data Marketplace for AI Robotics Training.
 
-hi, it's YapsGG! i love design and engineering. take a look my personal website [yaps.gg](https://yaps.gg)
+hi, it's YapsGG! i do design and engineering. take a look my personal website [yaps.gg](https://yaps.gg)
 
-Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [X (Twitter)](https://x.com/abdibrokhim) | [YouTube](https://www.youtube.com/@yapsdotgg) | [Instagram](https://www.instagram.com/yaps.gg)
+Checkout my [LinkedIn](https://www.linkedin.com/in/yapsgg) | [X (Twitter)](https://x.com/yapsdotgg) | [YouTube](https://www.youtube.com/@yapsdotgg) | [Instagram](https://www.instagram.com/yaps.gg)
 
 ### Currently working on
-- [ANORA](https://anoraai.xyz) – Your Intelligent Canvas for Scalable Workflows.
-- [ANORA Labs Shop](http://anoralabs.shop/) – Order your coffee from terminal `ssh anoralabs.shop`. Written in Rust. [Web version](https://github.com/abdibrokhim/web.anora.cafe). </br>
-- [rentmyheader](https://rentmyheader.xyz) - Monetize your LinkedIn profile with one fucking click.
+– [Venaz](https://venaz.ai) – Sourcing the largest licensable datasets on the planet. Powering the world’s leading AI companies, governments, and research institutions with data sourced from verified contributors.
+– [slay](https://slaycamera.com) – Composition Guide Camera. Making taking better photos easier for millions of people.
+- [ANORA Labs](https://anora.yaps.gg) – AI Creative Studio for Modeling Agencies.
 
 ### Open-source projects
+– [Sponsor my fly](https://github.com/yapsgg/sponsor-my-athlete-fly) – i trained a fly to compete in flyrox against [Marc Lou](https://x.com/marclou/status/2097326512169222407).
+– [Yaps Cafe](https://cafe.yaps.gg/) – Order custom a coffee or drinks inspired by startups founders from [UzCombinator](https://UzCombinator.uz).
+– [US Visa interview rescheduler](https://github.com/yapsgg/us-visa-interview-rescheduler) – this script works on the background and finds earlier US visa interview dates and notifies you ones it's done.
+- [rentmyheader](https://rentmyheader.xyz) - Monetize your LinkedIn profile with one fucking click.
+- [ANORA Labs Shop](http://anoralabs.shop/) – Order your coffee from terminal `ssh anoralabs.shop`. Written in Rust. [Web version](https://github.com/abdibrokhim/web.anora.cafe). </br>
 - [Sponsor treemap](https://github.com/abdibrokhim/sponsor-treemap) – Visualize your sponsors contributions to the event. </br>
 - Turn your messy gallery into [Andrea Mosaic](https://github.com/abdibrokhim/Andrea-Mosaic-CLI). Written in Rust. </br>
 - [Lovido](https://github.com/abdibrokhim/loom-dl-web) – Free open source loom video downloader. (20 MAU) </br>
