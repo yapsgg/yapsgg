@@ -13,14 +13,14 @@ hi, it's YapsGG! i do design and engineering. take a look my personal website [y
 Checkout my [LinkedIn](https://www.linkedin.com/in/yapsgg) | [X (Twitter)](https://x.com/yapsdotgg) | [YouTube](https://www.youtube.com/@yapsdotgg) | [Instagram](https://www.instagram.com/yaps.gg)
 
 ### Currently working on
-– [Venaz](https://venaz.ai) – Sourcing the largest licensable datasets on the planet. Powering the world’s leading AI companies, governments, and research institutions with data sourced from verified contributors.
-– [slay](https://slaycamera.com) – Composition Guide Camera. Making taking better photos easier for millions of people.
+- [Venaz](https://venaz.ai) – Sourcing the largest licensable datasets on the planet. Powering the world’s leading AI companies, governments, and research institutions with data sourced from verified contributors.
+- [slay](https://slaycamera.com) – Composition Guide Camera. Making taking better photos easier for millions of people.
 - [ANORA Labs](https://anora.yaps.gg) – AI Creative Studio for Modeling Agencies.
 
 ### Open-source projects
-– [Sponsor my fly](https://github.com/yapsgg/sponsor-my-athlete-fly) – i trained a fly to compete in flyrox against [Marc Lou](https://x.com/marclou/status/2097326512169222407).
-– [Yaps Cafe](https://cafe.yaps.gg/) – Order custom a coffee or drinks inspired by startups founders from [UzCombinator](https://UzCombinator.uz).
-– [US Visa interview rescheduler](https://github.com/yapsgg/us-visa-interview-rescheduler) – this script works on the background and finds earlier US visa interview dates and notifies you ones it's done.
+- [Sponsor my fly](https://github.com/yapsgg/sponsor-my-athlete-fly) – i trained a fly to compete in flyrox against [Marc Lou](https://x.com/marclou/status/2097326512169222407).
+- [Yaps Cafe](https://cafe.yaps.gg/) – Order custom a coffee or drinks inspired by startups founders from [UzCombinator](https://UzCombinator.uz).
+- [US Visa interview rescheduler](https://github.com/yapsgg/us-visa-interview-rescheduler) – this script works on the background and finds earlier US visa interview dates and notifies you ones it's done.
 - [rentmyheader](https://rentmyheader.xyz) - Monetize your LinkedIn profile with one fucking click.
 - [ANORA Labs Shop](http://anoralabs.shop/) – Order your coffee from terminal `ssh anoralabs.shop`. Written in Rust. [Web version](https://github.com/abdibrokhim/web.anora.cafe). </br>
 - [Sponsor treemap](https://github.com/abdibrokhim/sponsor-treemap) – Visualize your sponsors contributions to the event. </br>
