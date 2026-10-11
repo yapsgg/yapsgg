@@ -80,12 +80,3 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/yapsgg) | [X (Twitter)](https
 - The [Stable Diffusion](https://github.com/abdibrokhim/The-Stable-Diffusion-Search-Engine) Search Engine. </br>
 - [Truck Simulator](https://github.com/abdibrokhim/TuckSimulator-unity) – my first game i did in Unity. it has map, levels. </br>
 
----
-
-<p align="center">
-  <a href="https://www.imcook.in/open-community"><img src="./icons/oc-icon.svg" alt="yaps world | open community" width="100"></a>
-  <a href="https://yaps.gg"><img src="./icons/yapsdotgg.svg" alt="yaps world | yaps.gg" width="100"></a>
-  <a href="https://yaps.chat"><img src="./icons/yapsdotchat.svg" alt="yaps world | yaps.chat" width="100"></a>
-  <a href="https://notl.ink"><img src="./icons/notlink-logo.svg" alt="yaps world | yaps.link" width="100"></a>
-  <a href="https://yaps.lol"><img src="./icons/yapsdotlol.svg" alt="yaps world | yaps.lol" width="100"></a>
-</p>
