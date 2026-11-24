@@ -19,6 +19,14 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/yapsgg) | [X (Twitter)](https
 
 ### Open-source projects
 - [Sponsor my fly](https://github.com/yapsgg/sponsor-my-athlete-fly) – i trained a fly to compete in flyrox against [Marc Lou](https://x.com/marclou/status/2097326512169222407).
+- [Exchange Analyst](https://github.com/yapsgg/uzex-analyst) – Chat agent that answers questions about a commodity exchange's deal registry in Russian, Uzbek, and English. The model never does the math, it writes SQL and shows every query behind the answer. [Demo](https://uzex-analyst.vercel.app) </br>
+- [native-ios-design](https://github.com/yapsgg/native-ios-design) – Agent skill for SwiftUI apps that feel fully native: Apple HIG, Liquid Glass, Dynamic Type that holds up at large sizes, and smooth performance. The exact skill behind [slay](https://slaycamera.com). </br>
+- [Opencom](https://github.com/yapsgg/opencom) – Open-source AI support agent for any website. One script tag, answers from your own content. ~4 KB widget, any model via OpenRouter, self-hosted. </br>
+- [AI Apprentice](https://github.com/yapsgg/hacknation-hackathon) – Captures a senior PE expert's reasoning during diligence and uses only expert-approved rules to coach junior analysts. Built at HackNation. [Demo](https://agent-nine-lake.vercel.app) </br>
+- [infinite-faq](https://github.com/yapsgg/infinite-faq) – AI-powered, infinitely growing FAQ. Visitors ask their own question, the answer streams in and becomes a new FAQ item. `npm i infinite-faq` </br>
+- [YapsGG Discord bot](https://github.com/yapsgg/discord-bot) – Discord bot that downloads X (Twitter) videos, chats with AI, and runs coding tasks through opencode. </br>
+- [LinkedIn Growth](https://github.com/yapsgg/linkedin-growth) – Open-source tool to schedule, analyze, and grow your LinkedIn page. Turns articles and launches into on-brand posts and pulls performance back into a dashboard. </br>
+- [Open Community Fund](https://fund.yaps.gg) – Microgrants up to $500 for young founders. </br>
 - [Yaps Cafe](https://cafe.yaps.gg/) – Order custom a coffee or drinks inspired by startups founders from [UzCombinator](https://UzCombinator.uz).
 - [US Visa interview rescheduler](https://github.com/yapsgg/us-visa-interview-rescheduler) – this script works on the background and finds earlier US visa interview dates and notifies you ones it's done.
 - [rentmyheader](https://rentmyheader.xyz) - Monetize your LinkedIn profile with one fucking click.
